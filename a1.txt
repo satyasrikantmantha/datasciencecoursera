@@ -1,1 +1,1 @@
-This is a file for understandning adding files to repository.
+This is a file for understanding adding files to repository.
